@@ -1,3 +1,3 @@
 Student Login !
-![LOGIN](https://github.com/vjola123/StudentDataSystem/assets/147322367/9102967d-03c5-4a83-8d86-56ea3ed5fe66)
-![TABLE](https://github.com/vjola123/StudentDataSystem/assets/147322367/2393d52f-e94a-43c5-9fad-c09142a7e5a1)
+![LOGIN](https://github.com/vjola123/StudentDataSystem/assets/147322367/67e6c350-f333-4b75-ac00-4b8f447e4742)
+![TABLE](https://github.com/vjola123/StudentDataSystem/assets/147322367/ef25858c-9d3a-45f6-9cbe-756d9a86d54b)
