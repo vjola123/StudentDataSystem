@@ -9,7 +9,7 @@ const Login = () => {
   const [loggedIn, setLoggedIn] = useState(false);
   const [userExists, setUserExists] = useState(true);
 
-  // Funksioni për verifikimin e përdoruesit
+
   const verifyUser = (nid, password) => {
     const storedUsers = JSON.parse(localStorage.getItem('userDataList')) || [];
     const foundUser = storedUsers.find(user => user.nid === nid && user.password === password);
